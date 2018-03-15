@@ -36,3 +36,8 @@ $(document).keydown(function(e){
 });
 
     $("#pipe").animate({marginRight: "+=520px"},speed=2080);
+
+function genererpipe() {
+      $(.section).append("#pipe")
+
+}
