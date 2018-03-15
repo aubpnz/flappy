@@ -16,8 +16,9 @@ section {
   height:600px;
   background-image:url(fond_montagne.png);
   background-size: cover;
-  overflow: hidden;
+
   position: relative;
+  overflow: hidden  
 }
 #flappy {
   width: 98px;
