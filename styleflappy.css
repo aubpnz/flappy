@@ -1,0 +1,33 @@
+body {
+  display:flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  background-color:black;
+  background:cover;
+
+}
+
+section {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:400px;
+  height:600px;
+  background-image:url(fond_montagne.png);
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+#flappy {
+  width: 98px;
+}
+#pipe {
+  background-image:url(pipe.png);
+  width: 60px;
+  height: 451px;
+  position: absolute;
+right: 0px;
+top: -230px;
+margin-right:-100px
+}

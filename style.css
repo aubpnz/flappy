@@ -1,0 +1,25 @@
+{margin: 0;
+  padding: 0;}
+
+.entete{
+  background-color: blue;
+  width: 100%;
+  height: 50px;}
+
+
+.menu {width: 8%;
+    font-style: grey;
+  }
+  .entete {
+      flex-direction: row;
+      display: flex;
+      justify-content: space-between;
+  }
+
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+img {width: 60%;
+}
